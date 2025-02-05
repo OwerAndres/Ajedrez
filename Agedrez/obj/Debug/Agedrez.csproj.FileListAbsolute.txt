@@ -1,0 +1,16 @@
+D:\Agedrez\Agedrez\bin\Debug\Agedrez.exe.config
+D:\Agedrez\Agedrez\bin\Debug\Agedrez.exe
+D:\Agedrez\Agedrez\bin\Debug\Agedrez.pdb
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.csproj.AssemblyReference.cache
+D:\Agedrez\Agedrez\obj\Debug\MainWindow.g.cs
+D:\Agedrez\Agedrez\obj\Debug\App.g.cs
+D:\Agedrez\Agedrez\obj\Debug\Agedrez_MarkupCompile.cache
+D:\Agedrez\Agedrez\obj\Debug\Agedrez_MarkupCompile.lref
+D:\Agedrez\Agedrez\obj\Debug\App.baml
+D:\Agedrez\Agedrez\obj\Debug\MainWindow.baml
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.g.resources
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.Properties.Resources.resources
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.csproj.GenerateResource.cache
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.csproj.CoreCompileInputs.cache
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.exe
+D:\Agedrez\Agedrez\obj\Debug\Agedrez.pdb
