@@ -6,8 +6,8 @@
     <Application.Resources>
         <ResourceDictionary>
             <SolidColorBrush x:Key="BoardOutline" Color="#423936" />
-            <SolidColorBrush x:Key="OddTile" Color="#A23B3B" />
-            <SolidColorBrush x:Key="EvenTile" Color="#FAE8C8" />
+            <SolidColorBrush x:Key="OddTile" Color="#000000" />
+            <SolidColorBrush x:Key="EvenTile" Color="#FFFFFF" />
             <Style x:Key="ChessPieces" TargetType="Path">
                 <Setter Property="Fill" Value="#2D171A" />
                 <Setter Property="Stretch" Value="Uniform" />
